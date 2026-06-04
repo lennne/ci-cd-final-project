@@ -1,7 +1,6 @@
-Project Name: ci-cd-final-project
-
 # CI/CD Tools and Practices Final Project - JavaScript/Node.js Version
-
+ci-cd-final-project
+ 
 This repository contains a Node.js/Express.js version of the counter service for the Final Project of the Coursera course **CI/CD Tools and Practices**.
 
 ## Features
